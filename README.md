@@ -17,3 +17,5 @@ Apply to layer with corner pin (for example from mocha tracking). It creates a P
 ## HeatDistortion.ffx
 Preset for heat distortion that I like.
 
+## RemoveCharactersFromSirtng.ffx 
+Apply to Text layer. Gives you a Slider to remove characters from string end. Lets you easyly animate typing or other things where Character appear one after another.
