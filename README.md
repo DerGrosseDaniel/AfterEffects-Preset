@@ -10,3 +10,10 @@ Appy to solid layer. Creates an easy to place square  which automatically sample
 
 ![ColoredCornerPin_controls.png](images/ColoredCornerPin_controls.png?raw=true "ColoredCornerPin_controls.png")
 ![ColoredCornerPin_example.png](images/ColoredCornerPin_example.png?raw=true "ColoredCornerPin_example.png")
+
+## CornerPin2PowerPin.ffx
+Apply to layer with corner pin (for example from mocha tracking). It creates a Power Pin which is linked via expression to original corner pin.
+
+## HeatDistortion.ffx
+Preset for heat distortion that I like.
+
