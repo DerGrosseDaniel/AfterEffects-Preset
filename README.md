@@ -8,4 +8,4 @@ This Expression remaps time for clip and binds it to a angle expression control.
 ## ColoredCornerPin.ffx
 Appy to solid layer. Creates an easy to place square  which automatically samples color of target layer and creates a 4 way color ramp.
 
-!(images/ColoredCornerPin_controls.png?raw=true "Title")
+![ColoredCornerPin_controls.png](images/ColoredCornerPin_controls.png?raw=true "Title")
